@@ -1,1 +1,2 @@
-# SmartAttendance
+#:q
+ SmartAttendance
